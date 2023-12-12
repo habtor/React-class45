@@ -2,13 +2,10 @@ ul li {
   list-style: none;
 }
 
-.categoryDiv {
-  /* background-color: aqua; */
-}
+
 
 .categoryDiv ul {
   display: flex;
-  /* margin-left: -30px; */
 }
 
 .categoryDiv li {

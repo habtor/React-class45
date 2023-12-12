@@ -3,7 +3,7 @@ import ItemsLists from "./components/lists";
 
 function App() {
   return (
-    <div className="app">
+    <div>
       <ItemsLists />
     </div>
   );
